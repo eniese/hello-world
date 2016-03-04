@@ -15,4 +15,4 @@ _start:
 	syscall
 
 message:
-	.ascii	"Hello, world! How are we doing?\n\n\n"
+	.ascii	"Hello, world! How are you doing?\n\n"
